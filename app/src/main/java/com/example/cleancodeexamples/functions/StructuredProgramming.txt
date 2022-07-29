@@ -1,0 +1,2 @@
+Some programmers follow Edsger Dijkstra’s rules of structured programming.
+Dijkstra said that every function, and every block within a function, should have one entry and one exit.

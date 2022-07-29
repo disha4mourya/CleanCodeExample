@@ -1,0 +1,7 @@
+Side effects are lies.
+Your function promises to do one thing, but it also does other hidden things.
+
+
+UserValidator.java
+Update name: checkPasswordAndInitializeSession
+violates “Do one thing.”

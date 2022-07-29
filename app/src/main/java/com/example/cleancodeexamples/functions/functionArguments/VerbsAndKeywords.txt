@@ -1,0 +1,6 @@
+verb/noun pair
+
+write(name) -> writeField(name)
+
+
+assertEquals -> assertExpectedEqualsActual(expected, actual)
