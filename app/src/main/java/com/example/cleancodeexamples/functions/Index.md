@@ -92,7 +92,7 @@
 
 # Don’t Repeat Yourself
 
-[HtmlUtil.java](./htmlutil/rerefactored/HtmlUtil.java)
+[HtmlUtil.java](./htmlutil/HtmlUtil.java)
 
 [SetupTeardownIncluder.java](./finalTeardownExample/SetupTeardownIncluder.java)
 
