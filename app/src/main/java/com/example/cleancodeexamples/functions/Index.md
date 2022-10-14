@@ -52,13 +52,13 @@
 [Triads.txt](./functionArguments/Triads.txt)
 
 ### Argument Objects
-[ArgumentObjects.txt](./functionArguments/ArgumentObjects.txt)
+[ArgumentObjects.txt](./functionArguments/ArgumentObjects.md)
 
 ### Argument Lists 
-[ArgumentLists.txt](./functionArguments/ArgumentLists.txt)
+[ArgumentLists.md](./functionArguments/ArgumentLists.md)
 
 ### Verbs and Keywords
-[VerbsAndKeywords.txt](./functionArguments/VerbsAndKeywords.txt)
+[VerbsAndKeywords.txt](./functionArguments/VerbsAndKeywords.md)
 
 <hr /> 
 
