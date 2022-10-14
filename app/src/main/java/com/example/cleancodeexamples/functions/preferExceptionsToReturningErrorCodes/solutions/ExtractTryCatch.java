@@ -1,4 +1,9 @@
-package com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes;
+package com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes.solutions;
+
+import com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes.supportingfiles.ConfigKeys;
+import com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes.supportingfiles.Logger;
+import com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes.supportingfiles.Page;
+import com.example.cleancodeexamples.functions.preferExceptionsToReturningErrorCodes.supportingfiles.Registry;
 
 public class ExtractTryCatch {
     public Page page;

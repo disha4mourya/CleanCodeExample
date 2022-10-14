@@ -1,2 +1,0 @@
-if (deletePage(page) == E_OK)
-
