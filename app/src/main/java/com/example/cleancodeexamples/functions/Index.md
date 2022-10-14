@@ -101,13 +101,13 @@
 
 # Structured Programming
 
-[StructuredProgramming.txt](./StructuredProgramming.txt)
+[StructuredProgramming.txt](./StructuredProgramming.md)
 
 <hr /> 
 
 # How Do You Write Functions Like This?
 
-[HowToFollowAllThis.txt](./HowToFollowAllThis.txt)
+[HowToFollowAllThis.txt](./HowToFollowAllThis.md)
 
 <hr /> 
 
@@ -115,7 +115,7 @@
 
 [Conclusion.txt](./Conclusion.txt)
 
-# SetupTeardownIncluder
+### SetupTeardownIncluder
 
 [finalteardownexample](./finalteardownexample)
 
