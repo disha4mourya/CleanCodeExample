@@ -1,4 +1,4 @@
-package com.example.cleancodeexamples.functions.payroll;
+package com.example.cleancodeexamples.functions.switchpayroll.problemstatement;
 
 public class Payroll {
     public Money calculatePay(Employee e) throws InvalidEmployeeType {

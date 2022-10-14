@@ -22,6 +22,8 @@
 
 # **Switch Statements**
 
+[Example](./switchpayroll)
+
 <hr />
 
 # **Use Descriptive Names**
@@ -69,7 +71,7 @@
 <hr /> 
 
 # **Command Query Separation**
-[CommandQuerySeparation](./CommandQuerySeparation.txt)
+[CommandQuerySeparation](./CommandQuerySeparation.md)
 
 <hr /> 
 

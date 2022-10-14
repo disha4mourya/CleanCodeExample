@@ -1,6 +1,6 @@
-package com.example.cleancodeexamples.functions.payroll.factorypattern;
+package com.example.cleancodeexamples.functions.switchpayroll.factorypattern;
 
-import com.example.cleancodeexamples.functions.payroll.Money;
+import com.example.cleancodeexamples.functions.switchpayroll.problemstatement.Money;
 
 public abstract class Employee {
     public abstract boolean isPayday();

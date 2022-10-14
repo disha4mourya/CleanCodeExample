@@ -1,6 +1,6 @@
-package com.example.cleancodeexamples.functions.payroll.factorypattern;
+package com.example.cleancodeexamples.functions.switchpayroll.factorypattern;
 
-import com.example.cleancodeexamples.functions.payroll.InvalidEmployeeType;
+import com.example.cleancodeexamples.functions.switchpayroll.problemstatement.InvalidEmployeeType;
 
 class EmployeeFactoryImpl implements EmployeeFactory {
     public Employee makeEmployee(EmployeeRecord r) throws InvalidEmployeeType {
