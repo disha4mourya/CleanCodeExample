@@ -27,7 +27,7 @@
 <hr />
 
 # **Use Descriptive Names**
-[UseDescriptiveNames.txt](./UseDescriptiveNames.txt)
+[UseDescriptiveNames.md](./UseDescriptiveNames.md)
 
 <hr /> 
 
@@ -37,28 +37,28 @@
 
 ### **Common Monadic Forms**
 
-[CommonMonadicForms.txt](./functionArguments/CommonMonadicForms.txt)
+[CommonMonadicForms.md](./functionArguments/CommonMonadicForms.md)
 
 ### Flag Arguments
 
-[FlagArguments.txt](./functionArguments/FlagArguments.txt)
+[FlagArguments.md](./functionArguments/FlagArguments.md)
 
 ### Dyadic Functions
 
-[DyadicFunctions.txt](./functionArguments/DyadicFunctions.txt)
+[DyadicFunctions.md](./functionArguments/DyadicFunctions.md)
 
 ### Triads
 
-[Triads.txt](./functionArguments/Triads.txt)
+[Triads.md](./functionArguments/Triads.md)
 
 ### Argument Objects
-[ArgumentObjects.txt](./functionArguments/ArgumentObjects.md)
+[ArgumentObjects.md](./functionArguments/ArgumentObjects.md)
 
 ### Argument Lists 
 [ArgumentLists.md](./functionArguments/ArgumentLists.md)
 
 ### Verbs and Keywords
-[VerbsAndKeywords.txt](./functionArguments/VerbsAndKeywords.md)
+[VerbsAndKeywords.md](./functionArguments/VerbsAndKeywords.md)
 
 <hr /> 
 
@@ -66,7 +66,7 @@
 [haveNoSideEffects](./haveNoSideEffects)
 
 ###Output Arguments 
-[OutputArguments.txt](./haveNoSideEffects/OutputArguments.txt)
+[OutputArguments.md](./haveNoSideEffects/OutputArguments.txt)
 
 <hr /> 
 
@@ -113,7 +113,7 @@
 
 # Conclusion
 
-[Conclusion.txt](./Conclusion.txt)
+[Conclusion.txt](./Conclusion.md)
 
 ### SetupTeardownIncluder
 
